@@ -1,0 +1,19 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "Import Extracted Annotation",
+      "outputPathTemplate": "@inbox/{{citekey}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "Templates/zotero template.md",
+      "cslStyle": "aci-materials-journal"
+    }
+  ],
+  "exeVersion": "1.0.15"
+}

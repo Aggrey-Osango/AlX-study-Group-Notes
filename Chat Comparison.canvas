@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"4f414f87096e43c4","x":-422,"y":-258,"width":325,"height":90,"type":"text","text":"## Git Hub Flow."},
+		{"id":"581754633c0523bc","x":-419,"y":-79,"width":319,"height":60,"type":"text","text":"Write code"},
+		{"id":"9941fae7fa2a6256","x":-425,"y":80,"width":331,"height":60,"type":"text","text":"Commit changes"},
+		{"id":"22f9e811f5fb8573","x":7,"y":-238,"width":305,"height":50,"type":"text","text":"## Local Flow"},
+		{"id":"410cf05d48b1005a","x":7,"y":-85,"width":305,"height":60,"type":"text","text":"Stage Changes"},
+		{"id":"681c9879d69a6b26","x":8,"y":78,"width":302,"height":60,"type":"text","text":"Commit Changes"},
+		{"id":"7ba2a4255a7aae08","x":8,"y":240,"width":302,"height":60,"type":"text","text":"Push Changes"},
+		{"id":"9e283a0e24932c79","x":393,"y":240,"width":250,"height":60,"color":"1","type":"text","text":"git push"},
+		{"id":"f595aa871382ae04","x":393,"y":-85,"width":250,"height":60,"color":"1","type":"text","text":"git add"},
+		{"id":"54b6b9fcd8568285","x":393,"y":78,"width":250,"height":60,"color":"1","type":"text","text":"git commit"},
+		{"id":"92efc47fa7332be9","x":-36,"y":-278,"width":699,"height":756,"type":"group","label":"Local Repo Work Flow"},
+		{"id":"e1189d4520b30abb","x":-445,"y":-278,"width":371,"height":598,"type":"group","label":"GitHub repo Work Flow"},
+		{"id":"4f9363ac5c0c04e4","x":-422,"y":240,"width":325,"height":60,"type":"text","text":"Make oull request"},
+		{"id":"40654ef5b96228a3","x":-9,"y":367,"width":336,"height":89,"type":"text","text":"Make oull request"}
+	],
+	"edges":[
+		{"id":"15e6a3f57ea382c3","fromNode":"4f414f87096e43c4","fromSide":"bottom","toNode":"581754633c0523bc","toSide":"top"},
+		{"id":"bf729e0c9de10c8d","fromNode":"581754633c0523bc","fromSide":"bottom","toNode":"9941fae7fa2a6256","toSide":"top"},
+		{"id":"1622836ee087074d","fromNode":"9941fae7fa2a6256","fromSide":"bottom","toNode":"4f9363ac5c0c04e4","toSide":"top"},
+		{"id":"6cd8bed589449527","fromNode":"f595aa871382ae04","fromSide":"left","toNode":"410cf05d48b1005a","toSide":"right"},
+		{"id":"f376da4de7aaf0bb","fromNode":"54b6b9fcd8568285","fromSide":"left","toNode":"681c9879d69a6b26","toSide":"right"},
+		{"id":"5da11047b529469f","fromNode":"9e283a0e24932c79","fromSide":"left","toNode":"7ba2a4255a7aae08","toSide":"right"},
+		{"id":"66b5072dfbe9d9cf","fromNode":"22f9e811f5fb8573","fromSide":"bottom","toNode":"410cf05d48b1005a","toSide":"top"},
+		{"id":"ebb7e8b797901227","fromNode":"410cf05d48b1005a","fromSide":"bottom","toNode":"681c9879d69a6b26","toSide":"top"},
+		{"id":"262058ae4456cd4d","fromNode":"681c9879d69a6b26","fromSide":"bottom","toNode":"7ba2a4255a7aae08","toSide":"top"},
+		{"id":"ff09079f2f3bcae2","fromNode":"7ba2a4255a7aae08","fromSide":"bottom","toNode":"40654ef5b96228a3","toSide":"top"}
+	]
+}

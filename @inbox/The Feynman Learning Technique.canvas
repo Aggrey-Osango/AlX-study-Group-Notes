@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"e598313e33d24664","x":-284,"y":19,"width":452,"height":89,"color":"5","type":"text","text":"2.[[ Identify gaps in your explanation]]\n   Go back to the main material  to better understand it."},
+		{"id":"7c1c78e11c556198","x":-216,"y":154,"width":315,"height":60,"color":"2","type":"text","text":"3. [[Organise and Simplify]]"},
+		{"id":"5923aedc57944950","x":-216,"y":254,"width":315,"height":60,"color":"6","type":"text","text":"4. [[Transmit]]"},
+		{"id":"0a37fe17ddb569b7","x":-265,"y":-240,"width":414,"height":106,"color":"4","type":"text","text":"## There are 4 steps in Feynman Techniques."},
+		{"id":"fc632901f23fd034","x":-284,"y":-95,"width":452,"height":60,"color":"3","type":"text","text":"1. [[Have a 6th Grader teacher mentality]]"}
+	],
+	"edges":[
+		{"id":"4d5daccf50b9e082","fromNode":"e598313e33d24664","fromSide":"bottom","toNode":"7c1c78e11c556198","toSide":"top"},
+		{"id":"237baaa52d83ce52","fromNode":"7c1c78e11c556198","fromSide":"bottom","toNode":"5923aedc57944950","toSide":"top"},
+		{"id":"765ad52c27ef2b20","fromNode":"fc632901f23fd034","fromSide":"bottom","toNode":"e598313e33d24664","toSide":"top"}
+	]
+}

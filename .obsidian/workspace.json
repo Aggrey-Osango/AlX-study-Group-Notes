@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "a006f3f39c0e6334",
+    "type": "split",
+    "children": [
+      {
+        "id": "497a249e4ebad96f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e1b6c43edfa1b4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "probation/0x01 Git..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0ad00078b5ac76a",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1ae9e0d7c2d2d0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9e2ef0d2fd579ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed7bde1581d38a92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4fc35afe80717c8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29a569936a1bd189",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d615a4f38135fc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfe5b8aba12ba259",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b03bdcbb59cf2870",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "probation/0x01 Git..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6fcbbfb2a4cffbfd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "probation/0x01 Git..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5bf8a880cd93f65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "361dde998ea5203a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "probation/0x01 Git..md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "2e1b6c43edfa1b4c",
+  "lastOpenFiles": [
+    "Mindset.md",
+    "@inbox/ALX SE.  Kanban Review Board.md",
+    "random.md",
+    "Transmit.md",
+    "@inbox/The Feynman Learning Technique.canvas",
+    "do hard things.md",
+    "Full Program Calendar/(Every ) 0x00 Shell Navigation.).md",
+    "Chat Comparison.canvas",
+    "Organise and Simplify.md",
+    "wayone.md"
+  ]
+}

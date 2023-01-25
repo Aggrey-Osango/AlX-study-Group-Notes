@@ -1,0 +1,1 @@
+Now that you have a set of hand-crafted notes in your hands you can arrange them to form a narrative that you can explain from start to finish, Read it out aloud, if the narrative sounds confusing go back to step 2.

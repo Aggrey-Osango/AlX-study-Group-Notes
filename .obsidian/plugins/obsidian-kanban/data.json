@@ -1,0 +1,19 @@
+{
+  "show-checkboxes": true,
+  "tag-colors": [
+    {
+      "tagKey": "",
+      "color": "",
+      "backgroundColor": ""
+    }
+  ],
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "days",
+      "direction": "after"
+    }
+  ],
+  "link-date-to-daily-note": true
+}
